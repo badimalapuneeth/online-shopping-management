@@ -98,11 +98,6 @@ online-shopping-management
 └── .gitignore
 
 
-```
-
-
-```
-
 ---
 
 ## ⚙️ Installation & Setup
@@ -111,7 +106,7 @@ online-shopping-management
 
 ```
 
-git clone [https://github.com/YOUR_USERNAME/online-shopping-management.git](https://github.com/YOUR_USERNAME/online-shopping-management.git)
+git clone [https://github.com/badimalapuneeth/online-shopping-management.git](https://github.com/YOUR_USERNAME/online-shopping-management.git)
 
 ```
 
