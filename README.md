@@ -84,9 +84,6 @@ This project demonstrates real-world full stack development practices and secure
 ---
 
 ## 📂 Project Structure
-
-```
-
 online-shopping-management
 │
 ├── client
@@ -99,6 +96,10 @@ online-shopping-management
 │   └── server.js
 │
 └── .gitignore
+
+
+```
+
 
 ```
 
